@@ -23,7 +23,7 @@
 			"email": "andrew.bryce.howard@gmail.com",
 			"discord": "volfied",
 			"url": "https://github.com/yorkshirelandscape"
-		{
+		}
 	],
     "esmodules": [
         "./custom-css.js"

@@ -14,10 +14,16 @@
 			"url": "https://github.com/zeel01",
 			"discord": "zeel#4200"
 		},
-        {
-            "name": "Cody Swendrowski",
-            "email": "cody@swendrowski.us"
-        }
+        	{
+			"name": "Cody Swendrowski",
+			"email": "cody@swendrowski.us"
+	        },
+		{
+			"name": "Andrew Howard",
+			"email": "andrew.bryce.howard@gmail.com",
+			"discord": volfied,
+			"url": "https://github.com/yorkshirelandscape"
+		{
 	],
     "esmodules": [
         "./custom-css.js"
@@ -41,16 +47,16 @@
             "path": "languages/en.json"
         }
     ],
-    "manifest": "https://github.com/cswendrowski/FoundryVTT-Custom-CSS/releases/latest/download/module.json",
-	"url": "https://github.com/cswendrowski/FoundryVTT-Custom-CSS",
-	"download": "https://github.com/cswendrowski/FoundryVTT-Custom-CSS/releases/latest/download/custom-css.zip",
-    "readme": "https://github.com/cswendrowski/FoundryVTT-Custom-CSS/blob/master/readme.md",
-	"bugs": "https://github.com/cswendrowski/FoundryVTT-Custom-CSS/issues",
-	"changelog": "https://github.com/cswendrowski/FoundryVTT-Custom-CSS/releases",
-	"media": [
-		{
-			"type": "icon",
-			"url": "https://avatars2.githubusercontent.com/u/1721836"
-		}
-	]
+    "manifest": "https://github.com/yorkshirelandscape/FoundryVTT-Custom-CSS/releases/latest/download/module.json",
+	 "url": "https://github.com/yorkshirelandscape/FoundryVTT-Custom-CSS",
+    "download": "https://github.com/yorkshirelandscape/FoundryVTT-Custom-CSS/releases/latest/download/custom-css.zip",
+      "readme": "https://github.com/yorkshirelandscape/FoundryVTT-Custom-CSS/blob/master/readme.md",
+	"bugs": "https://github.com/yorkshirelandscape/FoundryVTT-Custom-CSS/issues",
+   "changelog": "https://github.com/yorkshirelandscape/FoundryVTT-Custom-CSS/releases",
+       "media": [
+			{
+				"type": "icon",
+				"url": "https://avatars2.githubusercontent.com/u/1721836"
+			}
+		]
 }

@@ -1,6 +1,6 @@
 {
-    "id": "custom-css",
-    "title": "Custom CSS",
+    "id": "v-css",
+    "title": "V-CSS",
     "description": "Add custom CSS to your world",
     "version": "2.3.0",
     "compatibility": {
